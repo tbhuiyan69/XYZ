@@ -1,2 +1,1 @@
-# XYZ
-xyz
+# xyztechnologies code
